@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aka\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="G:\A-Android\new\Gmail\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_60592548a8a98ab3ddfea15cf251de95a336faf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aka\.android\build-cache\52a2ea9f3e7a8490adcd3abf5384f83d29b00419\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="G:\A-Android\new\Gmail\app\build\intermediates\pre-dexed\debug\classes_eb8aa591ca0af898764b50cf4baee2057cee7d33.jar" />
+    </item>
+
+</items>
